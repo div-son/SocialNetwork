@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8df8e5e2-0258-4c81-8eaa-798883846be4" name="Changes" comment="making changes (#16)&#10;&#10;* making changeds&#10;&#10;* file refactor&#10;&#10;* stash&#10;&#10;Co-authored-by: ZipDemon &lt;zipdemon123@gmail.com&gt;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/Navbar.js" afterDir="false" />
+=======
+>>>>>>> origin
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +25,11 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< HEAD
+        <entry key="$PROJECT_DIR$" value="development" />
+=======
         <entry key="$PROJECT_DIR$" value="main" />
+>>>>>>> origin
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,7 +45,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="demonic-branch" />
+<<<<<<< HEAD
+                    <option name="lastUsedInstant" value="1645716695" />
+=======
                     <option name="lastUsedInstant" value="1645709295" />
+>>>>>>> origin
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
@@ -98,6 +114,10 @@
       <workItem from="1645431190569" duration="616000" />
       <workItem from="1645458306889" duration="93000" />
       <workItem from="1645708995844" duration="304000" />
+<<<<<<< HEAD
+      <workItem from="1645731240401" duration="35000" />
+=======
+>>>>>>> origin
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1644944279538</created>
